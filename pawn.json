@@ -1,0 +1,6 @@
+{
+  "user": "f0Re3t",
+  "repo": "nex-ac_rakcheat",
+  "contributors": ["f0Re3t"],
+  "dependencies": ["sampctl/samp-stdlib"]
+}
