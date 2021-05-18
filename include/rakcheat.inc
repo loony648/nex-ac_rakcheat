@@ -9556,7 +9556,7 @@ ac_fpublic ac_Timer(playerid)
 #if !defined OnCheatDetected
 	//Don't make changes in this public
 	//To customize punishments, declare 'OnCheatDetected' in your script
-	ac_fpublic ac_OnCheatDetected(playerid, ip_address[], type, code)
+	ac_fpublic ac_OnCheatDetected(playerid, const ip_address[], type, code)
 	{
 		if(type)
 		{
